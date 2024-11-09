@@ -4,11 +4,11 @@ This is a discord bot with a c.ai characters integration by an unofficial librar
 # Requirements
 first, clone the repository (you need git to clone it)
 ```bash
-$ git clone https://github.com/Aquki/SayaAi.git
+git clone https://github.com/Aquki/SayaAi.git
 ```
 then cd into it
 ```bash
-$ cd SayaAi
+cd SayaAi
 ```
 and install the requirements.txt
 ```bash
