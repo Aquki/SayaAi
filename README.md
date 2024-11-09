@@ -48,5 +48,5 @@ token=
 # Run
 after you end from set your tokens, you can run the bot by
 ```bash
-$ python3 SayaAi.py
+python3 SayaAi.py
 ```
