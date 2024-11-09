@@ -3,9 +3,13 @@ This is a discord bot with a c.ai characters integration by an unofficial librar
 
 # Requirements
 first, clone the repository (you need git to clone it)
-`$ git clone https://github.com/Aquki/SayaAi.git`
+```bash
+$ git clone https://github.com/Aquki/SayaAi.git
+```
 then cd into it
+```bash
 $ cd SayaAi
+```
 and install the requirements.txt
 ```bash
 pip install -r requirements.txt
