@@ -23,11 +23,11 @@ and you are ready!
 # Setup
 edit the .env file with your tokens and message
 
-first, you have the first message, if the chat ID is None, this message will sent first to the c.ai character
+In the beginning, you have the first message value, if the chat ID is None, this message will sent first to the c.ai character
 ``` 
 first_message=Hello! You are inside discord bot
 ```
-then you have the c.ai token, there are a lot of ways to get it but kramcat made ther own way [here](https://docs.kram.cat/auth.html)
+then you have the c.ai token, there are a lot of ways to get it but kramcat made their own way [here](https://docs.kram.cat/auth.html)
 ```
 char_token= 
 ```
