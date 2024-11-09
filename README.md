@@ -8,11 +8,11 @@ then cd into it
 $ cd SayaAi
 and install the requirements.txt
 ```bash
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 and you need also to install the c.ai library with this command
 ```bash
-`pip install git+https://github.com/kramcat/CharacterAI.git`
+pip install git+https://github.com/kramcat/CharacterAI.git
 ```
 and you are ready!
 
