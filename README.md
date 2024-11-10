@@ -53,3 +53,4 @@ python3 SayaAi.py
 
 # Thanks
 Thank you Toranya!
+Thank you Rafik!
